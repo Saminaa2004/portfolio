@@ -116,8 +116,8 @@ const Navbar = () => {
           onClick={handleResumeDownload}
           className="hidden sm:flex items-center gap-2 bg-transparent border border-gray-500 text-white px-6 py-3 rounded-full font-semibold text-sm hover:border-gray-400 "
         >
-          <CircleArrowDown size={16} />
           Get Resume
+          <CircleArrowDown size={20} />
         </button>
       </nav>
 
